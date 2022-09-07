@@ -38,17 +38,17 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,tailwind,materialui,ai,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,tailwind,materialui,bootstrap,ai,ps,figma" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,c,cpp,git,github,vscode,linux,bash,mongodb,firebase," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,c,cpp,git,github,vscode,linux,bash,mongodb,firebase" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,netlify" />
+    <img src="https://skillicons.dev/icons?i=heroku,netlify,vercel" />
   </a>
 </p>
 
