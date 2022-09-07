@@ -28,13 +28,15 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
 <br>
 
 
-<img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
+<img align='left'  height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
 <br>
 <br>
 <h2>Skills</h2>
 
+
 <p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,tailwind,materialui,ai,ps,figma," />
   </a>
