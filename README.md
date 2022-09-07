@@ -8,7 +8,7 @@
 
 ### :man_technologist: I'm Antar Das and I'm interested in programming and Solve Problems
 
-Currently I'm learning, practicing courses and Data Structure and Algorithm,
+Currently I'm learning, practicing courses and Data Structure and Algorithm.
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Antardas.Antardas)
 
