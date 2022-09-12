@@ -63,6 +63,14 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Antardas&show_icons=true&theme=highcontrast" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antardas&hide=html&layout=compact&theme=highcontrast" />
   
+ </div>
+ 
+ 
+ </details>
+
+ <details close="true">
+  <summary><b>:gear: &nbsp;Waka Time statistics</b></summary>
+  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
