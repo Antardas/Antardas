@@ -72,6 +72,20 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
   <summary><b>:gear: &nbsp;Waka Time statistics</b></summary>
   
 <!--START_SECTION:waka-->
+
+```text
+From: 15 December 2021 - To: 11 September 2022
+
+Total Time: 713 hrs 42 mins
+
+JavaScript       456 hrs 28 mins >>>>>>>>>>>>>>>>---------   63.96 %
+C                70 hrs 22 mins  >>-----------------------   09.86 %
+C++              64 hrs 43 mins  >>-----------------------   09.07 %
+JSON             37 hrs 37 mins  >------------------------   05.27 %
+Svelte           20 hrs 30 mins  >------------------------   02.87 %
+CSS              17 hrs 55 mins  >------------------------   02.51 %
+```
+
 <!--END_SECTION:waka-->
 
  </div>
