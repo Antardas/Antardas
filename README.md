@@ -71,6 +71,7 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
  <details close="true">
   <summary><b>:gear: &nbsp;Waka Time statistics</b></summary>
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
@@ -155,6 +156,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
  Last Updated on 02/11/2022 09:44:23 UTC
+ 
 <!--END_SECTION:waka-->
 
  
