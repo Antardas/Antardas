@@ -70,7 +70,6 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
 
  <details close="true">
   <summary><b>:gear: &nbsp;Waka Time statistics</b></summary>
-  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

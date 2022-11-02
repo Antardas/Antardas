@@ -12,6 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "True"
