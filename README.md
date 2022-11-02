@@ -74,7 +74,6 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
- </div>
  
  
  </details>
