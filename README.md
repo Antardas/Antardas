@@ -72,8 +72,9 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
   <summary><b>:gear: &nbsp;Waka Time statistics</b></summary>
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2023%20mins-blue)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2023%20mins-blue)
+<!--  -->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
 **🐱 My GitHub Data** 
