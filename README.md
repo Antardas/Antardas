@@ -38,7 +38,7 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
 <p align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,materialui,bootstrap,ai,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,nextjs,redux,tailwind,materialui,bootstrap,ai,ps,figma" />
   </a>
 </p>
 <p align="center">
