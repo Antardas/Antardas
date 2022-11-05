@@ -43,7 +43,7 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,c,cpp,python,git,github,vscode,linux,bash,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,c,cpp,python,git,github,gitlab,vscode,linux,bash,mongodb,firebase" />
   </a>
 </p>
 <p align="center">
