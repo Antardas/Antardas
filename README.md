@@ -12,6 +12,9 @@ Currently I'm learning, practicing courses and Data Structure and Algorithm.
 
 ![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Antardas.Antardas)
 
+<img align='left' style="margin-right:20px" src='https://media.licdn.com/dms/image/D5616AQG1SHrs7V8_hA/profile-displaybackgroundimage-shrink_350_1400/0/1707996412661?e=1713398400&v=beta&t=W5vf9EkIMPyYSDo-sNZepoccB_J616Yz_z96YpJH-ys' alt='Social Networks'>
+<br>
+<br>
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <br>
